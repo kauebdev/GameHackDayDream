@@ -1,0 +1,1 @@
+can_take_damage = true; // jogador pode receber dano novamente
